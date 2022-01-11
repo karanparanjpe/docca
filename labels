@@ -1,0 +1,123 @@
+<html>
+<h1 id="Annotation Guidelines">ANNOTATION GUIDELINES</h1>
+<h2 id="Labels">Labels-></h2>
+<br>
+<h3 id="Label">1) Name</h3>
+<p><li>Name of the person to which the resume belongs to.</li>
+<li>Eg: Name : ABHIJIT GHOSH </li></p>
+<ul><ol>
+<li>Other person’s name should ideally not be annotated</li>
+<li>Also, many institutes have their names named after a person. They should also not be annotated either</li>
+<li>No other annotation with name like designation or organization. Label only Personal labels</li>
+</ol></ul>
+<br>
+
+<h3 id="Label">2) Email-ID</h3>
+<p><li>Email-id of the person to which the resume belongs to.</li>
+<li>Eg: abhijitghosh@gmail.com </li> </p>
+<ul><ol>
+<li>References email-ids should not be annotated</li>
+<li>No linkedIn or any other link to be annotated</li>
+</ol></ul>
+<br>
+
+<h3 id="Label">3) Phone_number</h3>
+<p> <li>Phone number of the person to which the resume belongs to.</li>
+<li>Eg: +91 8445566789, 8445566789 </li></p>
+<br>
+
+<h3 id="Label">4) Language</h3>
+<p><li>Languages mentioned in the Resume.</li>
+<li>Eg: English, Hindi, Marathi </li></p>
+<br>
+
+<h3 id="Label">5) DOB_DateRange</h3>
+<p><li>For Dates present in ‘Date Of Birth’ Section or mentioned birthdate.</li></p>
+<br>
+
+<h3 id="Label">6) Gender</h3>
+<p><li>Sex of the person to which the resume belongs to.</li>
+<li>Eg: Male, Female </li></p>
+<br>
+
+<h3 id="Label">7) Marital_Status</h3>
+<p><li>States whether a person is married or not.</li>
+<li>Eg: Single, Married </li></p>
+<br>
+
+<h3 id="Label">8) Address_Location</h3>
+<p><li>Contains resume holder’s personal address mentioned.</li>
+<li>For eg: 1) 302, Ward-5A, Adipur – (Gandhidham), Kutch-370205, Gujarat 2) Mumbai 3) Pune</li></p>
+<br>
+
+<h3 id="Label">9) Course</h3>
+<p><li>It is the Degree/Subject/Course done by resume holder in educational purpose.</li> 
+<li>Eg: PGDM in Marketing / Business Analytics from Institute of Management</li></p>
+<br>
+
+<h3 id="Label">10) Institute</h3>
+<p><li>It is the institute in which the resume holder completed his education.</li>
+<li>Eg: Institute of Management</li></p>
+<ul><ol>
+<li>It should not have the professional organization he/she works.</li>
+</ol></ul>
+<br>
+
+<h3 id="Label">11) Grade</h3>
+<p><li>Grade achieved by the resume holder. Can contain percentage, grades(A-Z), GPA/CGPA.</li>
+<li>Eg: 6.7/10, 67%, ‘A’</li></p>
+<br>
+
+<h3 id="Label">12) Education_Location</h3>
+<p><li>Contains resume holder’s location mentioned in the ‘Educational Details’ section.</li> 
+<li>For eg:1) Mumbai 2) Pune</li></p>
+<br>
+
+<h3 id="Label">13) Education_DateRange</h3>
+<p><li> For Dates the resume holder has completed his/her education in the ‘Education Details’ section.</li></p>
+<br>
+
+<h3 id="Label">14) Designation</h3>
+<p><li>It is the current or all other past positions of that resume holder. Basically, in every resume, there’s a work experience section, where they have mentioned designation in that section.</li>
+<li>Eg: Developer, Analyst, Sr. Analyst </li></p>
+<br>
+
+<h3 id="Label">15) Organization</h3>
+<p><li>It is the current or all other past organizations that the resume holder has worked for. Contains company names mostly.</li>
+<li>Eg: Accenture, HSBC </li></p>
+<br>
+
+<h3 id="Label">16) Role_Description</h3>
+<p> <li>Should have the work description of the positions that the resume holder worked for an organization </li></p>
+<br>
+
+<h3 id="Label">17) Work_Location</h3>
+<p><li>Contains resumes holder’s Work location mentioned in the ‘Work Experience’ Section.</li> 
+<li>For eg: 1) Mumbai 2) Pune </li></p>
+<br>
+
+<h3 id="Label">18) Work_DateRange</h3>
+<p><li>For Dates that resume holder has worked for a specific organization/company in the ‘Work Experience’ section.</li></p>
+<br>
+
+<h3 id="Label">19) Main_Skills</h3>
+<p><li>Skills mentioned in the ‘Skills’ section in the resume.</li>
+<li>Eg: SKILLS: C++, Java, Python, Windows, MacOS </li></p>
+<br>
+
+<h3 id="Label">20) Work_Skills</h3>
+<p><li>Skills mentioned in the Summary section or Resume Profile section. Can be mentioned separately or in a paragraph.</li></p>
+<br>
+
+<h4><b>Date Formats:</b>
+<p>
+<li>dd/mm/yyyy</li>
+<li>dd/mm/yy</li>
+<li>dd month yy</li>
+<li>dd month yyyy</li>
+<li>month yy</li>
+<li>month yy – month yy</li>
+<li>year – year</li>
+</p>
+</h4>
+</html>
